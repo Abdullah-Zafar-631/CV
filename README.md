@@ -1,4 +1,4 @@
-# Muhammad Abdullah - Professional CV
+# Muhammad Abdullah - CV
 
 Welcome to my personal portfolio website! This project showcases my skills, experience, and professional background as a Software Engineer and Network Analyst. It's designed to be clean, responsive, and visually engaging.
 
